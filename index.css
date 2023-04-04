@@ -16,6 +16,21 @@
     color: #fff;
     font-weight:700;
     font-size:20px;
+    cursor: pointer;
+}
+
+.btn-contact{
+    border:1px solid #FD6E0A;
+    color:#FD6E0A;
+    font-size:20px;
+    font-weight:700;
+    padding:18px 30px;
+    margin-left:10px;
+    cursor: pointer;
+}
+
+.banner-btn{
+    display: flex;
 }
 
 .header{
