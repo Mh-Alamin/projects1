@@ -40,6 +40,21 @@
     background-position: bottom right, left;
 }
 
+.card-logo{
+    padding:30px;
+}
+
+.card-title{
+    padding:30px;
+}
+
+.card-des{
+    padding:30px;
+    line-height:30px;
+    letter-spacing:1px;
+    color:#757575;
+}
+
 /* Header and navigation style*/
 
 nav{
@@ -116,4 +131,54 @@ nav li{
 
 .about ul li{
     padding:30px 20px;
+}
+
+/*---Start card style css */
+
+.card{
+    margin:100px 130px;
+}
+
+.card-details{
+    margin:0px 200px;
+    text-align: center;
+}
+
+.card-details h2{
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.card-details p{
+    color:#757575;
+    text-align: justify;
+}
+
+.card-items{
+    display: flex;
+    margin-top:50px;
+}
+
+.card-box-1{
+    height:400px;
+    width:400px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.card-box-2{
+    height:400px;
+    width:400px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.card-box-3{
+    height:400px;
+    width:400px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.card-box-4{
+    height:400px;
+    width:400px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
