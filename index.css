@@ -86,3 +86,34 @@ nav li{
     font-size:18px;
     margin-bottom:30px;
 }
+
+/*----About main style css */
+
+.about-main{
+    margin:100px 130px;
+    background-color: #FFF8F3;
+}
+
+.about{
+   text-align:center;
+   padding:100px 200px;
+}
+
+.about h2{
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.about p{
+    color:#757575;
+    text-align: justify;
+}
+
+.about ul{
+  list-style: none;
+  display: flex;
+}
+
+.about ul li{
+    padding:30px 20px;
+}
