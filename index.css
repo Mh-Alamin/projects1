@@ -182,3 +182,39 @@ nav li{
     width:400px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
+
+/*---Start resume style css */
+
+.resume-section{
+    margin:0px 150px;
+}
+
+.title{
+    text-align:center;
+}
+
+.experience-section{
+    display: flex;
+    justify-content: space-between;
+    margin-top:100px;
+}
+
+.experience-section-1, h1{
+    margin-bottom:20px;
+    width:400px;
+}
+
+.job-title{
+    font-weight: 700;
+    margin-bottom:2px;
+}
+
+.job-des{
+    margin-top:20px;
+    color:#757575;
+    margin-bottom:30px;
+}
+
+#btn{
+    justify-content: center;
+}
